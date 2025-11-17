@@ -1,1 +1,1 @@
-# project2020
+# project 2020 https://www.researchgate.net/profile/Pruthvi-Tr/publication/352418428_Automated_Text_line_Segmentation_and_Table_detection_for_Pre-Printed_Document_Image_Analysis_Systems/links/61837f7e3c987366c3232f64/Automated-Text-line-Segmentation-and-Table-detection-for-Pre-Printed-Document-Image-Analysis-Systems.pdf
